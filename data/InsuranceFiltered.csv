@@ -1,0 +1,613 @@
+﻿Age Group,Age Group Name,Date,Expanded,Expanded by year,Frequency,Indicator,Indicator Name,Location,Location_Name,Location Name (copy),Location RegionId,Measure,Measure Name,Measure Unit,Units,Uninsured,Scale
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,13.3,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,13.8,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,14.6,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,14.3,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,13.3,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,13.6,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,12.1,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,9.4,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,10,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_AL,Alabama,Alabama,US_AL,M.13,Percent,%,%,9.7,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,19.1,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,21.1,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,19.9,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,20.1,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,20.5,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,18.5,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,17.2,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,14.9,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,14,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,13.7,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,12.6,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_AK,Alaska,Alaska,US_AK,M.13,Percent,%,%,12.2,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,18,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,17.3,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,16.9,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,17.2,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,17.6,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,17.1,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,13.6,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,10.8,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,10,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,10.6,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AZ,Arizona,Arizona,US_AZ,M.13,Percent,%,%,11.3,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,17.1,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,17,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,17.5,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,17.1,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,16.4,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,16,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,11.8,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,9.5,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,7.9,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,7.9,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,8.2,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_AR,Arkansas,Arkansas,US_AR,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,17.3,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,18,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,18.5,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,18.1,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,17.9,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,17.2,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,12.4,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,8.6,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,7.3,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,7.2,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,7.2,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CA,California,California,US_CA,M.13,Percent,%,%,7.7,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,16.7,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,15.8,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,15.9,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,15.1,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,14.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,14.1,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,10.3,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,8.1,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,7.5,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,7.5,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,7.5,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CO,Colorado,Colorado,US_CO,M.13,Percent,%,%,8,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,9.4,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,6.9,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,6,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,4.9,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,5.5,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,5.3,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_CT,Connecticut,Connecticut,US_CT,M.13,Percent,%,%,5.9,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,7.6,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,10,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,20.2,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,18.2,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,6.5,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,8.7,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,17.2,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,12.4,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,13.4,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,11.4,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,13.2,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,17,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,3.9,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,10.8,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,10.4,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,11,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,8.4,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,12.4,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,17,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,17.5,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,15.5,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,10,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,10.8,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,10.5,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,12,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,20.7,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,20.7,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,11.4,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,11.3,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,18.7,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,15.8,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,9,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,16.7,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,11.1,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,12.9,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,23.4,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,15,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,11.6,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,12.5,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2008,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,14.8,1
+KN.A1,All Age Group,1/1/2008,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,13.7,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,7,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,20.9,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,19.1,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,7,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,8.6,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,17.4,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,13.3,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,14.3,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,13.2,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,14.5,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,17.4,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,4.2,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,11.1,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,10.5,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,12.2,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,13.2,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,17.9,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,18.2,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,16.1,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,9.7,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,11.9,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,12.6,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,19.7,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,21.9,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,11.4,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,12.2,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,18.7,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,17,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,9.9,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,11.3,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,16.8,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,13.1,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,14.3,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,23.8,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,14.6,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,11.9,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,8.6,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,13.4,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,9.4,1
+KN.A1,All Age Group,1/1/2009,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,14.2,1
+KN.A1,All Age Group,1/1/2009,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,15.2,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,7.6,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,9.7,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,21.3,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,19.7,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,7.9,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,9.3,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,17.7,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,13.8,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,14.8,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,13.9,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,15.3,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,17.8,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,4.4,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,11.3,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,12.4,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,13.2,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,18.2,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,17.3,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,16.8,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,9.8,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,11.5,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,11.1,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,13.2,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,19.6,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,22.6,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,11.9,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,12.3,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,18.9,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,17.1,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,12.2,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,17.5,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,12.4,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,14.4,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,23.7,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,15.3,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,13.1,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,8,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,14.2,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,9.4,1
+KN.A1,All Age Group,1/1/2010,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,14.6,1
+KN.A1,All Age Group,1/1/2010,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,14.9,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,6.9,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,9.4,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,20.9,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,19.6,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,7.1,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,8.9,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,16.5,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,13.1,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,14.5,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,12.6,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,14.4,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,17.5,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,4.3,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,10.4,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,10.7,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,11.8,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,13.7,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,17.7,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,18.3,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,16.3,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,9.8,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,11.4,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,10.5,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,13.1,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,19.8,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,21.9,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,11.4,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,11.9,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,18.7,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,15.7,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,10.8,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,16.7,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,11.9,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,14.6,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,23,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,15.3,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,12.5,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,6.6,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,14.2,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,9,1
+KN.A1,All Age Group,1/1/2011,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,14.9,1
+KN.A1,All Age Group,1/1/2011,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,15.4,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,5.9,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,20.1,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,18.4,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,6.9,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,8.4,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,16.2,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,12.8,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,14.3,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,12.6,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,13.9,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,16.9,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,3.9,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,10.3,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,11.4,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,8,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,13.6,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,17,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,18,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,16.6,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,10,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,11.3,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,10.6,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,12.7,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,18.4,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,22.2,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,10.9,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,11.5,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,18.4,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,14.9,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,9.8,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,11.1,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,16.8,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,11.5,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,13.9,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,22.5,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,14.5,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,12.5,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,6.5,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,13.9,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,9,1
+KN.A1,All Age Group,1/1/2012,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,14.4,1
+KN.A1,All Age Group,1/1/2012,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,15.4,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,6.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,20,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,18.8,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,6.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,8.1,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,16.2,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,12.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,14,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,12.3,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,14.3,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,16.6,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,3.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,11.2,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,11,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,8.2,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,13,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,17.1,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,16.5,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,15.6,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,10.4,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,11.3,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,10.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,13.2,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,18.6,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,20.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,10.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,11,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,17.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,14.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,9.7,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,11.6,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,15.8,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,11.3,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,13.9,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,22.1,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,14,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,12.3,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,7.2,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,14,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2013,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,14,1
+KN.A1,All Age Group,1/1/2013,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,13.4,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,5.3,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,7.8,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,16.6,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,15.8,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,5.3,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,6.2,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,13.6,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,9.7,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,11.9,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,8.5,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,14.8,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,3.3,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,7.9,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,8.5,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,5.9,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,11.7,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,14.5,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,14.2,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,13.1,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,7.9,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,9.7,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,9.2,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,10.9,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,14.5,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,15.2,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,8.7,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,8.4,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,15.4,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,9.7,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,8.5,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,7.4,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,13.6,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,9.8,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,12,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,19.1,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,12.5,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,10.9,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,5,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,9.2,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,7.3,1
+KN.A1,All Age Group,1/1/2014,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,8.6,1
+KN.A1,All Age Group,1/1/2014,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,12,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,3.8,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,5.9,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,13.3,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,13.9,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,4,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,5,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,11,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,7.1,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,9.6,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,6,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,11.9,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,2.8,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,6.6,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,8.4,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,6.1,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,4.5,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,9.8,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,12.7,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,11.6,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,11.2,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,7.8,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,8.2,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,6.3,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,8.7,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,10.9,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,12.3,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,7.1,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,6.5,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,13.9,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,7,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,6.4,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,5.7,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,10.9,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,10.3,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,17.1,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,10.5,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,3.8,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,6.6,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,5.7,1
+KN.A1,All Age Group,1/1/2015,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,6,1
+KN.A1,All Age Group,1/1/2015,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,11.5,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,3.9,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,5.7,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,12.5,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,12.9,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,3.5,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,4.3,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,6.5,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,8.1,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,8.7,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,5.1,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,10.3,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,2.5,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,6.1,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,8,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,5.4,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,4.1,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,8.9,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,11.8,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,8.1,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,10.4,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,7,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,8.6,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,5.9,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,8,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,9.2,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,11.4,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,6.1,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,5.6,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,13.8,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,6.2,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,5.6,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,4.3,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,10,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,8.7,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,9,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,16.6,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,8.7,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,3.7,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,6,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,5.3,1
+KN.A1,All Age Group,1/1/2016,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,5.3,1
+KN.A1,All Age Group,1/1/2016,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,11.5,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,3.8,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,5.4,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,12.9,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,13.4,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,3.8,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,4.7,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,6.8,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,8.2,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,8.7,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,5.4,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,8.4,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,2.8,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,6.1,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,8.1,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,5.2,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,4.4,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,12,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,8.5,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,10.7,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,7.5,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,8.3,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,5.8,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,7.7,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,11.2,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,5.7,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,6,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,14.2,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,6.8,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,5.5,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,4.6,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,11,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,9.1,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,9.5,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,17.3,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,9.2,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,4.6,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,6.1,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,5.4,1
+KN.A1,All Age Group,1/1/2017,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,6.1,1
+KN.A1,All Age Group,1/1/2017,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,12.3,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,3.2,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,5.7,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,13,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,13.7,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,4.1,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,4.7,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,11.1,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,7,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,8.3,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,5.6,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,8,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,2.8,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,6,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,8,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,5.4,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,4.4,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,9.4,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,12.1,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,8.2,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,10.7,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,7.3,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,8.3,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,5.7,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,7.4,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,9.5,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,11.2,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,5.4,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,6.5,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,14.2,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,7.1,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,5.5,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,4.1,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,10.5,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,9.8,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,17.7,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,9.4,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,8.8,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,4,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,6.4,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,5.5,1
+KN.A1,All Age Group,1/1/2018,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,6.4,1
+KN.A1,All Age Group,1/1/2018,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,10.5,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DC,District of Columbia,District of Columbia,US_DC,M.13,Percent,%,%,3.5,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_DE,Delaware,Delaware,US_DE,M.13,Percent,%,%,6.6,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_FL,Florida,Florida,US_FL,M.13,Percent,%,%,13.2,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_GA,Georgia,Georgia,US_GA,M.13,Percent,%,%,13.4,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_HI,Hawaii,Hawaii,US_HI,M.13,Percent,%,%,4.2,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IA,Iowa,Iowa,US_IA,M.13,Percent,%,%,5,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_ID,Idaho,Idaho,US_ID,M.13,Percent,%,%,10.8,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_IL,Illinois,Illinois,US_IL,M.13,Percent,%,%,7.4,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_IN,Indiana,Indiana,US_IN,M.13,Percent,%,%,8.7,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_KS,Kansas,Kansas,US_KS,M.13,Percent,%,%,9.2,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_KY,Kentucky,Kentucky,US_KY,M.13,Percent,%,%,6.4,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_LA,Louisiana,Louisiana,US_LA,M.13,Percent,%,%,8.9,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MA,Massachusetts,Massachusetts,US_MA,M.13,Percent,%,%,3,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MD,Maryland,Maryland,US_MD,M.13,Percent,%,%,6,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ME,Maine,Maine,US_ME,M.13,Percent,%,%,8,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MI,Michigan,Michigan,US_MI,M.13,Percent,%,%,5.8,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_MN,Minnesota,Minnesota,US_MN,M.13,Percent,%,%,4.9,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_MO,Missouri,Missouri,US_MO,M.13,Percent,%,%,10,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_MS,Mississippi,Mississippi,US_MS,M.13,Percent,%,%,13,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2016,A,KN.VA12,Uninsured,US_MT,Montana,Montana,US_MT,M.13,Percent,%,%,8.3,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_NC,North Carolina,North Carolina,US_NC,M.13,Percent,%,%,11.3,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_ND,North Dakota,North Dakota,US_ND,M.13,Percent,%,%,6.9,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_NE,Nebraska,Nebraska,US_NE,M.13,Percent,%,%,8.3,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NH,New Hampshire,New Hampshire,US_NH,M.13,Percent,%,%,6.3,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NJ,New Jersey,New Jersey,US_NJ,M.13,Percent,%,%,7.9,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NM,New Mexico,New Mexico,US_NM,M.13,Percent,%,%,10,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NV,Nevada,Nevada,US_NV,M.13,Percent,%,%,11.4,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_NY,New York,New York,US_NY,M.13,Percent,%,%,5.2,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OH,Ohio,Ohio,US_OH,M.13,Percent,%,%,6.6,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Expanded 2021,A,KN.VA12,Uninsured,US_OK,Oklahoma,Oklahoma,US_OK,M.13,Percent,%,%,14.3,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_OR,Oregon,Oregon,US_OR,M.13,Percent,%,%,7.2,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2015,A,KN.VA12,Uninsured,US_PA,Pennsylvania,Pennsylvania,US_PA,M.13,Percent,%,%,5.8,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_RI,Rhode Island,Rhode Island,US_RI,M.13,Percent,%,%,4.1,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SC,South Carolina,South Carolina,US_SC,M.13,Percent,%,%,10.8,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_SD,South Dakota,South Dakota,US_SD,M.13,Percent,%,%,10.2,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TN,Tennessee,Tennessee,US_TN,M.13,Percent,%,%,10.1,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_TX,Texas,Texas,US_TX,M.13,Percent,%,%,18.4,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Expanded 2020,A,KN.VA12,Uninsured,US_UT,Utah,Utah,US_UT,M.13,Percent,%,%,9.7,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Expanded 2019,A,KN.VA12,Uninsured,US_VA,Virginia,Virginia,US_VA,M.13,Percent,%,%,7.9,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_VT,Vermont,Vermont,US_VT,M.13,Percent,%,%,4.5,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WA,Washington,Washington,US_WA,M.13,Percent,%,%,6.6,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WI,Wisconsin,Wisconsin,US_WI,M.13,Percent,%,%,5.7,1
+KN.A1,All Age Group,1/1/2019,Expanded,Expanded 2014,A,KN.VA12,Uninsured,US_WV,West Virginia,West Virginia,US_WV,M.13,Percent,%,%,6.7,1
+KN.A1,All Age Group,1/1/2019,Not Expanded,Not Expanded,A,KN.VA12,Uninsured,US_WY,Wyoming,Wyoming,US_WY,M.13,Percent,%,%,12.3,1
